@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vue-todo</string>
+    <string name="title_activity_main">vue-todo</string>
+    <string name="package_name">de.devcreations.todo</string>
+    <string name="custom_url_scheme">de.devcreations.todo</string>
+</resources>
